@@ -12,5 +12,8 @@
     "downlevelIteration": true,
     "lib": ["es6"]
   },
+  "files": [
+    "src/main.ts",
+  ],
   "include": ["src/main.ts"]
 }
